@@ -11,4 +11,4 @@ $ labelpoints
 ```
 
 ## 总览
-[演示](https://github.com/ScCcWe/labelpoints/blob/master/labelpoints/img/show1.png)
+![Image text](https://github.com/ScCcWe/labelpoints/blob/master/labelpoints/img/show1.png)
