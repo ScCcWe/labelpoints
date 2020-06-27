@@ -18,7 +18,7 @@ URL = 'https://https://github.com/ScCcWe/labelpoints'
 EMAIL = 'scccwe@qq.com'
 AUTHOR = 'ScCcEe'
 REQUIRES_PYTHON = '>=3.7.0'
-VERSION = '0.1.0'
+VERSION = '0.1.1'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
@@ -115,7 +115,7 @@ setup(
     # py_modules=['mypackage'],
 
     entry_points={
-        'console_scripts': ["labelme=labelme.__main__:main"],
+        'console_scripts': ["labelpoints=labelpoints.__main__:main"],
     },
     install_requires=REQUIRED,
     extras_require=EXTRAS,

@@ -289,3 +289,4 @@ class Shape(object):
 
     def __setitem__(self, key, value):
         self.points[key] = value
+
